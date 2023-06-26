@@ -1,0 +1,17 @@
+<html>
+<body>
+<form>
+<h1>REGISTRATION FORM</h1>
+<lable>first name</lable><br>
+<lable>middle name</lable><br>
+<lable>last name</lable><br>
+<lable>Email id:</lable><input type="email"><br><br>
+
+<lable>phone number</lable>
+<input type="number"><br>
+<br><lable>enter your gender:</lable><br>
+<input type="radio" id="gender" value=male   "male"
+<input type="radio" id="gender" value=female "female"
+<input type="radio" id="gender" value=others "others"
+</form>
+</html>
